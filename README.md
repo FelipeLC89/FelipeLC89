@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando como Front End Dev
 - 🌱 Estudando tudo relacionado a Javascript e seus Frameworks!
-- ⚡ Fun fact: Músico nas horas vagas! Sou guitarrista em uma banda 😎🎸
+- ⚡ Músico nas horas vagas! Sou guitarrista em uma banda 😎🎸
 
 ##
 
